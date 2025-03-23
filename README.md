@@ -36,10 +36,21 @@ it guides the project team, aligns stakeholder expectations, and helps keep the 
 A work breakdown structure (WBS) is a project management tool that breaks down a large project into smaller components.it helps to define and manage a project’s deliverables
 
 ## 7. What are the benefits of developing a detailed project schedule, and how can Gantt charts assist in this process?
-gantt charts provide a clear visual representation of the  project
+1.the benefefits of a well detailed project includes:
+
+Planning and tracking the project timeline
+Communicating the timeline to stakeholders
+Preventing budget overruns
+
+2.gantt charts provide a clear visual representation of the  project
 
 ## 8. What are the core issues that your software aims to address? Why are these problems significant to your target audience?
+my project aims to address loadshedding. this issuse is important because if it continues unaddressed alot of businesses will shut down and as a results a lot of people will lose jobs 
+
 ## 9. How can clearly defining the problem help in developing a more effective software solution?
+A well-defined problem is like a roadmap for solving a problem. It guides you toward relevant solutions, ensuring that your efforts are focused and effective.
+it also frames a way that sets the stage for effective solutions
+
 ## 10. How would you describe your software solution in a way that captures its essence without diving into technical details?
 ## 11. What are the main features or functionalities that make your software stand out?
 ## 12. What data is available regarding the market size and growth potential for your software?
