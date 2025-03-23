@@ -52,6 +52,10 @@ A well-defined problem is like a roadmap for solving a problem. It guides you to
 it also frames a way that sets the stage for effective solutions
 
 ## 10. How would you describe your software solution in a way that captures its essence without diving into technical details?
+i would describe it in a way that is clear, compelling and exciting 
 ## 11. What are the main features or functionalities that make your software stand out?
+it brings intergration.
+it gives the client more power
+maintain high quality database 
 ## 12. What data is available regarding the market size and growth potential for your software?
 ## 13. How can understanding market trends inform your software’s positioning and development?
